@@ -1,8 +1,8 @@
 # Analítica Empresarial Integrada — TECSUP 2026-I
 
-**Estudiante:** Trilce
-**Docente:** Pilar Rocío Sayán Mejía
-**Caso del curso:** AgroAndes Export S.A.C. — agroexportadora peruana
+- **Estudiante:** Trilce
+- **Docente:** Pilar Rocío Sayán Mejía
+- **Caso del curso:** AgroAndes Export S.A.C. — agroexportadora peruana
 
 ## Contenido del portafolio
 
