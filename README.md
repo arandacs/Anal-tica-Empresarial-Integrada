@@ -1,4 +1,4 @@
-# Analítica Empresarial Integrada — TECSUP 2026-I
+# Analítica Empresarial Integrada — TECSUP 2026-II
 
 - **Estudiante:** Trilce
 - **Docente:** Pilar Rocío Sayán Mejía
