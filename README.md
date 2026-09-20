@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner (2).png" alt="Analítica Empresarial Integrada" width="100%">
+<img src="banner.png" alt="Analítica Empresarial Integrada" width="100%">
 
 </div>
 
